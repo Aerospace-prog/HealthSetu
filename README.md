@@ -19,6 +19,14 @@ HealthSetu is a comprehensive healthcare platform designed to streamline doctor-
 
 ---
 
+🚀 Live Demo
+The application is deployed and can be accessed at the following link:
+
+<a href = "https://healthsetulife.netlify.app/" >Click To See Live Link 🔗</a>
+
+---
+
+
 <details open>
 <summary><b>✨ Key Features</b></summary>
 
@@ -391,4 +399,3 @@ We welcome contributions to HealthSetu! Here's how you can help:
 ### Made with ❤️ by the HealthSetu Team
 
 </div>
-
