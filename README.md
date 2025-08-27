@@ -1,4 +1,4 @@
-<div align="center">
+ÿş<div align="center">
   
 # ğŸ¥ HealthSetu
 
@@ -276,7 +276,7 @@ HealthSetu/
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/api/auth/register` | POST | Register new user (patient/doctor) |
+| `/api/auth/register` | POST | Register new user (patient/doctor|
 | `/api/auth/login` | POST | Authenticate user and get token |
 | `/api/auth/refresh-token` | POST | Get new access token using refresh token |
 
@@ -398,4 +398,4 @@ We welcome contributions to HealthSetu! Here's how you can help:
 
 ### Made with â¤ï¸ by the HealthSetu Team
 
-</div>
+</div>  
